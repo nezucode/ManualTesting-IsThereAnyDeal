@@ -1,5 +1,5 @@
 # IsThereAnyDeal Login Functionality
-This repository covers manual testing for the login functionality of IsThereAnyDeal website includinng requirement traceability matrix, test scenarios, test cases, supporting screenshots and a bug report.
+This repository covers manual testing for the login functionality of IsThereAnyDeal website including requirement traceability matrix, test scenarios, test cases, and supporting screenshots.
 
 ## Project Overview
 IsThereAnyDeal is a website that compares PC game prices from authorized retailers, offering historical low prices, notifications, and indie tips to help users find best deals. This project validates the login functionality to ensure its usability, security, and cross-browser compatibility through credential testing, UI validation, and third-party authentication verification.
