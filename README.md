@@ -7,17 +7,19 @@ IsThereAnyDeal is a website that compares PC game prices from authorized retaile
 - Website: https://isthereanydeal.com/
 - Module Tested: User Authentication (Login)
 - Testing Approach: Manual Functional Testing
-- Test Coverage: 6 Scenarios, 14 Test Cases (Positive, Negative, Boundary)
-- Environment: Cross-Browser (Microsoft Edge, Safari, Vivaldi)
+- Test Coverage: 8 Scenarios, 27 Test Cases (Positive, Negative, Boundary)
+- Environment: Cross-Browser (Microsoft Edge, Safari, Firefox, Google Chrome)
 
 ## Scope
 The focus of this project is testing the login functionality, covering the following scenarios:
-- Valid login attempts
-- Invalid login attempts (empty fields, wrong credentials, invalid formats)
-- Password field validation
+- Login with valid credentials
+- Login with invalid credentials (empty fields, wrong credentials, invalid formats)
+- Input field validation
+- Password field functionality
+- Security testing
 - Navigation checks
-- Third-party authentication (e.g., Steam login)
-- Basic compatibility testing across browsers
+- Third-party login (e.g., Steam login)
+- Compatibility testing across browsers
 
 ## Testing Goals
 - Verify authentication and credential validation
