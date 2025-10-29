@@ -1,4 +1,4 @@
-# IsThereAnyDeal Login
+# IsThereAnyDeal
 This repository covers manual testing for the login feature of IsThereAnyDeal website including requirement traceability matrix, test scenarios, test cases, and supporting screenshots.
 
 ## Project Overview
