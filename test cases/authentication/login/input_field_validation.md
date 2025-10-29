@@ -30,5 +30,4 @@
 | :--- | :--- | :--- |:--- |
 | 1 | Enter a valid email | The system accepts the valid email | ✅ Passed |
 | 2 | Enter a valid password with leading/trailing spaces (e.g., "Qwerty12 ") | The system accepts the valid password with leading/trailing spaces | ✅ Passed |
-| 3 | Click the "Sign in" button | - Log in should fail if the entered password contains leading/trailing spaces 
-- The system displays an error message (e.g., "The email and password combination is incorrect") | ⛔ Failed |
+| 3 | Click the "Sign in" button | - Log in should fail if the entered password contains leading/trailing spaces - The system displays an error message (e.g., "The email and password combination is incorrect") | ⛔ Failed |
