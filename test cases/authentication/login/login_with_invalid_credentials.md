@@ -99,7 +99,6 @@
 | 2 | Enter a valid password | The system accepts the valid password  | ✅ Passed |
 | 3 | Click the "Sign in" button | The user is allowed to log in and redirected to the homepage | ✅ Passed |
 
-***Notes:*** 
-- Email verification is not enforced before login. Core features (e.g., waitlist, collections) are accessible. This appears to be by design.
+**Notes:** *Email verification is not enforced before login. Core features (e.g., waitlist, collections) are accessible. This appears to be by design.*
 
 
