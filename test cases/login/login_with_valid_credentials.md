@@ -1,9 +1,9 @@
 ## Login With Valid Credentials
 
 ### TC01 - Verify login with a valid email and password
-*Title*: Verify login with a valid email and password
-*Execution Status*: Passed
-*Preconditions*: 
+**Title**: Verify login with a valid email and password
+**Execution Status**: Passed
+**Preconditions**: 
 - User opens the website (https://isthereanydeal.com/)
 - User clicks the "User" button then clicks the "Sign in / join" button
 - User is currently on the "Sign in" page
