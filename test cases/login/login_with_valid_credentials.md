@@ -1,3 +1,19 @@
-## Login With Valid Credentials - Test Scenario
+## Login With Valid Credentials
 
-##
+### TC01 - Verify login with a valid email and password
+*Title*: Verify login with a valid email and password
+*Execution Status*: Passed
+*Preconditions*: 
+- User opens the website (https://isthereanydeal.com/)
+- User clicks the "User" button then clicks the "Sign in / join" button
+- User is currently on the "Sign in" page
+- User has a valid registered account (e.g., fkdnd@tiffincrane.com / Qwerty12)
+
+| Steps | Action | Expected Result | Status |
+| :--- | :--- | :--- |:--- |
+| 1 | Enter a valid email (e.g., fkdnd@tiffincrane.com) | The system accepts the valid email | ✅ Passed |
+| 2 | Enter a valid password (e.g., fkdnd@tiffincrane.com) | The system accepts the valid email | ✅ Passed |
+
+
+
+
