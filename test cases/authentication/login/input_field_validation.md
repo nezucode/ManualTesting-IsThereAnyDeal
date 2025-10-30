@@ -32,4 +32,4 @@
 | 2 | Enter a valid password with leading/trailing spaces (e.g., "Qwerty12 ") | The system accepts the valid password with leading/trailing spaces | ✅ Passed |
 | 3 | Click the "Sign in" button | Log in should fail if the entered password contains leading/trailing spaces. The system displays an error message (e.g., "The email and password combination is incorrect"). | ⛔ Failed |
 
-**Notes:** *The user is succeed to login with password containing leading/trailing spaces (e.g., "Qwerty12 "). See attached [screenshot](https://github.com/nezucode/ManualTesting-IsThereAnyDeals-LoginTestCases/blob/main/screenshots/ISTAD_A001_TC09_PasswordWithLeadingTrailingSpaces.png)*
+**Notes:** *The user is succeed to login with password containing leading/trailing spaces (e.g., "Qwerty12 "). See attached [screenshot](https://github.com/nezucode/ManualTesting-IsThereAnyDeals-LoginTestCases/blob/main/screenshots/ISTAD_A001_TC09_PasswordWithLeadingTrailingSpaces.png).*
