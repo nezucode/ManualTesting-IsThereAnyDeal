@@ -9,7 +9,6 @@ This summary report provides an overview of the testing activities and outcomes 
 
 ## Scope of Testing
 ### In Scope
-The focus of this project is testing the login functionality, covering the following scenarios:
 - Login with valid credentials
 - Login with invalid credentials (empty fields, wrong credentials, invalid formats)
 - Input field validation
@@ -51,7 +50,7 @@ The focus of this project is testing the login functionality, covering the follo
 | Low | 0 |
 
 ### Defects by Status
-| Severit | Count |
+| Status | Count |
 | :--- | :--- |
 | Open | 2 |
 | In Progress | 0 |
