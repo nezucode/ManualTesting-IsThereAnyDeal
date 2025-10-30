@@ -6,7 +6,7 @@ This folders contains documented defects found during testing, including issue d
 
 ## Available Bug Reports
 
-| Defect ID | Title | Status  |
+| Defect ID | Title | Severity  |
 | :--- | :--- | :--- |
 | D001 | Users allow to login with password containing leading/trailing spaces  | Critical |
 | D002 | The system does not show CAPTCHA or lock the account after 3-5 failed login attempts | Critical |
