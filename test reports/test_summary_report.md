@@ -1,5 +1,5 @@
 # Test Summary Report
-This summary report provides an overview of the testing activities and outcomes on the login functionality. It highlights the overall testing scope, execution status, defect findings, and feedback.
+This summary report provides an overview of the testing activities and outcomes of the login functionality. It highlights the overall testing scope, execution status, defect findings, and feedback.
 
 ## Testing Goals
 - Verify authentication and credential validation
@@ -43,7 +43,7 @@ The focus of this project is testing the login functionality, covering the follo
 
 ## Defect Summary
 ### Defects by Severity
-| Severit | Count |
+| Severity | Count |
 | :--- | :--- |
 | Critical | 2 |
 | High | 0 |
