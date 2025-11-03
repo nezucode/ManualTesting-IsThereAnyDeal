@@ -1,7 +1,7 @@
-## Third-party login
+## SC07 - Third-party login
 
-### A001_SC06_TC25 - Verify the “Create an account” button navigates to the Create an Account page
-**Title**: Verify the “Create an account” button navigates to the Create an Account page <br>
+### A001_SC07_TC27 - Verify login using a Steam account
+**Title**: Verify login using a Steam account <br>
 **Execution Status**: ✅ Passed <br>
 **Preconditions**: 
 - User opens the website (https://isthereanydeal.com/)
@@ -11,6 +11,6 @@
 
 | Steps | Action | Expected Result | Status |
 | :--- | :--- | :--- |:--- |
-| 1 | Click the “Create an account” button | Navigates to the "Create an account" page | ✅ Passed |
-| 2 | Enter a valid password (e.g., Qwerty12) | The system accepts the valid email | ✅ Passed |
-| 3 | Click the "Sign In" button | The user is successfully logged in and redirected to the homepage | ✅ Passed |
+| 1 | Click the “Sign in through Steam” button | Navigates to the "Steam Login" page | ✅ Passed |
+| 2 | Login using a valid Steam account | User is successfully signed in and redirected to the homepage | ✅ Passed |
+
