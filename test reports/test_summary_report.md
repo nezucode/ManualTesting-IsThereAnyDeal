@@ -33,10 +33,10 @@ This summary report provides an overview of the testing activities and outcomes 
 
 | Metric| Count | % |
 | :--- | :--- | :--- |
-| Total Test Casses | 31 | 100% | 
+| Total Test Cases | 31 | 100% | 
 | Executed | 31 | 100% | 
-| Passed | 29 | 92.6% | 
-| Failed | 2 | 7.4% | 
+| Passed | 29 | 93.5% | 
+| Failed | 2 | 6.4% | 
 | Blocked | 0 | 0% | 
 | No Executed | 0 | 0% | 
 
