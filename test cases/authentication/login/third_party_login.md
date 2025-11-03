@@ -1,4 +1,4 @@
-## SC07 - Third-party login
+## SC07 - Third-party Login
 
 ### A001_SC07_TC27 - Verify login using a Steam account
 **Title**: Verify login using a Steam account <br>
